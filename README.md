@@ -1,2 +1,6 @@
-# maskurl
-A Simple mask url made in bash
+## Maskurl 
+
+-- 
+** This is a maskurl made in shell **
+
+# WORK ONLY WITH LINUX
